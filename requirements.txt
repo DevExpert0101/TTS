@@ -1,0 +1,9 @@
+av
+numpy
+pydub
+streamlit
+twilio
+streamlit_webrtc
+openai
+deepspeech
+gtts
